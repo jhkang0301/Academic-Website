@@ -13,7 +13,7 @@ tags:
 - Routine
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://fiss.snu.ac.kr/docs/fisspy/index.html"
+external_link: "http://fiss.snu.ac.kr/docs/fisspy/index.html"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
