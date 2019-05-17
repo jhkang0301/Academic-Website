@@ -1,6 +1,6 @@
 ---
 # Project title.
-title = FISS-IDL
+title = "FISS-IDL"
 
 # Date this page was created.
 date = 2019-04-01T03:00:00
