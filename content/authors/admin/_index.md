@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Juhyung(Juhyeong) Kang
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,28 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Candidate in Astronomy
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Seoul National University
+  url: "http://astro2.snu.ac.kr/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+bio: My research interests include sunspots, MHD, waves and instrument.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Sunspot waves
+- Spiral Wave Patterns
+- Optical Instrument Development
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+#  - course: PhD Candidate in Astronomy
+#    institution: Seoul National University
+#    year: 2020
+  - course: BSc in Astronomy
+    institution: Seoul National University
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,16 +40,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
+  link: '#contact'  # For a direct email link, use "mailto:jhkang@astro.snu.ac.kr".
+- icon: orcid
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://orcid.org/0000-0003-3540-4112
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: "https://github.com/jhkang0301/"
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -61,15 +54,13 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "jhkang@astro.snu.ac.kr"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am graduate student in the Department of Physics and Astronomy at Seoul National University, South Korea, working with [Prof. Jongchul Chae](https://orcid.org/0000-0002-7073-868X) for my PhD degree. I plan to graduate PhD course in February, 2020. My research interests are theoretical ana observational solar physics in the areas of sunspot waves. The primary goal is to understand the generation of sunspot waves. Recentely I have studied the nature of spiral wave patterns in sunspots (see [publications](#publications))
