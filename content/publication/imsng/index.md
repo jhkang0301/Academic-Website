@@ -1,6 +1,6 @@
 ---
 title = "Intensive Monitoring Survey of Nearby Galaxies (IMSNG)"
-date = 2019-i2-28
+date = 2019-12-28T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Im Myungshin", "Choi Changsu", "Hwang Sungyong", "Lim Gu", "Kim Joonho", "Kim Sophia", "Paek Gregory S. H.", "Lee Sang-Yun", "Yoon Sung-Chul", "Jung Hyunjin", "Sung Hyun-Il", "Jeon Yeong-beom", "Ehgamberdiev Shuhrat", "Burhonov Otabek", "Milzaqulov Davron", "Parmonov Omon", "Lee Sang Gak", "Kang Wonseok", "Kim Taewoo", "Kwon Sun-gill Pak Soojong", "Ji Tae-Geun", "Lee Hye-In", "Park Woojin", "Ahn Hojae", "Byeon Seoyeon", "Han Jimin", "Gibson Coyne", "Wheeler J. Craig", "Kuehne John", "Johns-Krull Chris", "Marshall Jennifer", "Hyun Minhee", "Lee Seong-Kook J.", "Kim Yongjung", "Yoon Yongmin", "Paek Insu", "Shin Suhyun", "Taak Yoon Chan", "**Kang Juhyung**", "Choi Seoyeon", "Jeong Mankeun", "Jung Moo-Keon", "Kim Hwara", "Kim Jisu", "Lee Dayae", "Park Bomi", "Park Keunwoo", "O Seong A"]
