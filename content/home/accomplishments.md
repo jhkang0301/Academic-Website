@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "IPSS"
   organization_url = "http://ipss.snu.ac.kr/"
-  title = "Interdisciplinary Program in Space System"
+  title = "Interdisciplinary Program in Space System in Seoul National University"
   url = ""
   certificate_url = ""
   date_start = "2016-09-01"
