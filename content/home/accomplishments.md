@@ -19,9 +19,9 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "IPSS"
+  organization = "IPSS in Seoul National University"
   organization_url = "http://ipss.snu.ac.kr/"
-  title = "Interdisciplinary Program in Space System in Seoul National University"
+  title = "Interdisciplinary Program in Space System"
   url = ""
   certificate_url = ""
   date_start = "2016-09-01"
