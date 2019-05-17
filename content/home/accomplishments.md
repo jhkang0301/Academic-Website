@@ -28,4 +28,14 @@ date_format = "Jan 2006"
   date_end = "2018-08-31"
   description = ""
 
+[design]
+  columns = "1"
+[design.background]
+  image = "eclipse.jpg"
+  image_darken = 0.8
+  text_color_light = true
+[design.spacing]
+  padding = ["20px", "0", "20px", "0"]
+
+
 +++
