@@ -1,4 +1,4 @@
----
++++
 title = "Decelopment of the SNU Coelostat: Conceptual Design"
 date = 2018-12-30T00:00:00
 
@@ -80,4 +80,4 @@ math = false
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
----
++++

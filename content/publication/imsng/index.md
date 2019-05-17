@@ -1,4 +1,4 @@
----
++++
 title = "Intensive Monitoring Survey of Nearby Galaxies (IMSNG)"
 date = 2019-12-28T00:00:00
 
@@ -80,4 +80,4 @@ math = false
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
----
++++
