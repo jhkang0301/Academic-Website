@@ -11,4 +11,13 @@ title = "About"
 # This should be the username of a profile in your `content/authors/` folder.
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "admin"
+
+[design]
+  columns = "1"
+[design.background]
+  image = "eclipse.jpg"
+  image_darken = 0.8
+  text_color_light = true
+[design.spacing]
+  padding = ["20px", "0", "20px", "0"]
 +++
