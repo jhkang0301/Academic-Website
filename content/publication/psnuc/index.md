@@ -1,5 +1,5 @@
 ---
-title = Decelopment of the SNU Coelostat: Conceptual Design
+title = "Decelopment of the SNU Coelostat: Conceptual Design"
 date = 2018-12-30
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
