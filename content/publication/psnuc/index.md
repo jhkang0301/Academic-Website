@@ -3,7 +3,7 @@ title = "Decelopment of the SNU Coelostat: Conceptual Design"
 date = 2018-12-30T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**Kang Juhyung**", "Chae Jongchul", "Kwak Hannah", "Yang Heesu"]
+authors = ["<span style="color:blue">**Kang Juhyung**</span>", "Chae Jongchul", "Kwak Hannah", "Yang Heesu"]
 
 # Publication type.
 # Legend:
