@@ -65,7 +65,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "ADS", url = "https://ui.adsabs.harvard.edu/#abs/2019ApJ...877L..9K/abstract"}]
+links = [{name = "ADS", url = "https://ui.adsabs.harvard.edu/#abs/2019ApJ...877L...9K/abstract"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false
